@@ -6689,3 +6689,10 @@ img{
 	width: 360px;
 	height: 285px;
 }
+
+.fluid-img{
+	position: relative;
+	width: 572px;
+    height: 379px;
+	
+}
