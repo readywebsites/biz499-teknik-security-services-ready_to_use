@@ -6701,3 +6701,9 @@ img{
 	width: 263px;
 	height: 300px;
 }
+
+.logo img {
+    background-color: white;
+    padding: 5px 5px; /* Optional: Adds some padding around the image */
+    border-radius: 52px; /* Optional: Adds rounded corners to the background */
+}
