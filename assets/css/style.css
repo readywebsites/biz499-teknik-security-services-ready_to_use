@@ -6648,3 +6648,62 @@ img{
 	font-size:18px;
 	margin-left:8px;
 }
+
+.logo1{
+	width: 150px;
+	height: 110px;
+}
+.logo-left{
+	width: 168px;
+	height: 58px;
+}
+
+.hs1{
+	width: 555px;
+	height: 250px;
+}
+
+.hs2{
+	width: 345px;
+	height: 230px;
+}
+
+
+.cctv{
+	width: 360px;
+	height: 260px;
+}
+
+.video-img{
+	width: 1140px;
+	height: 560px;
+}
+
+.gallery-block1{
+	width: 750px;
+	height: 285px;
+	
+}
+
+.gallery-block2{
+	width: 360px;
+	height: 285px;
+}
+
+.fluid-img{
+	position: relative;
+	width: 572px;
+    height: 379px;
+	
+}
+
+.team-img{
+	width: 263px;
+	height: 300px;
+}
+
+.logo img {
+    background-color: white;
+    padding: 5px 5px; /* Optional: Adds some padding around the image */
+    border-radius: 52px; /* Optional: Adds rounded corners to the background */
+}
